@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 happy new year 
+=======
+sink
+>>>>>>> first

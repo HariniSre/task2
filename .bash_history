@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sudo yum instaall git
 sudo yum install git
 git init
@@ -25,10 +26,26 @@ ls
 cd 'Andhra Pradhesh'
 cd Andhra Pradhesh 
 ls Andhra Pradesh
+=======
+git reset --hard master
+git push origin master 
+history 
+ls
+cd India
+ls
+cd Karnataka 
+ls
+cd Mysore 
+ls
+nano b3.txt
+cd ..
+ls
+>>>>>>> first
 cd 'Andhra Pradesh'
 ls
 cd Vijayawada
 ls
+<<<<<<< HEAD
 nano b1.txt 
 git add .
 git commit -m "Files are modified"
@@ -54,3 +71,97 @@ git add .
 git commit -m "Files are modified"
 git push origin first 
 history 
+=======
+nano b3.txt
+cd ..
+ls
+cd Telangana 
+ls
+cd Nalgonda 
+ls
+nano a3.txt
+cd ..
+git add ..
+git add .
+git commit -m "Files are modified"
+git push origin second 
+cd India 
+cd 'Andhra Pradesh'
+ls
+cd 'West Godavari'
+ls
+nano b2.txt
+cd ..
+cd Karnataka
+ls
+cd Bangalore
+ls
+nano b2.txt
+cd ..
+ls
+cd Telengana 
+cd Telangana 
+ls
+cd Suryapet 
+ls
+nano a2.txt 
+cd ..
+git push origin third 
+git checkout second 
+git checkout third 
+git add .
+git commit -m "Files are modified "
+git push origin third 
+git checkout second 
+git merge first 
+git checkout first
+git merge second 
+>>>>>>> first
+git merge third 
+git switch third 
+git merge first 
+git switch first 
+git merge third  
+ls
+cd India
+ls
+cd Karnataka
+ls
+cd Mysore 
+ls
+nano b3.txt
+cd ..
+cd Telangana 
+cd Hyderabad
+ls
+nano a2.txt
+cd ..
+cd 'Andhra Pradesh'
+ls
+cd Vijayawada
+ls
+nano b3.txt
+git add .
+git commit -m "Files are modified"
+git push origin master  
+git switch master 
+git switch first
+git merge master
+cd ..
+git push origin master
+git switch first
+git merge master
+git switch master
+git add .
+git commit -m"Files are modified"
+git switch master
+git merge first
+history 
+nano b3.txt
+nano a2.txt
+nano b3.txt
+nano b2.txt
+nano a3.txt
+nano a1.txt
+nano b1.txt
+nano b3.txt
